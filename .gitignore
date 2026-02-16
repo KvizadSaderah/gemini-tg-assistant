@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Secrets
+.env
+
+# Database
+*.db
+*.db-journal
+
+# Logs
+logs/
+bot.log
+bot_output.log
+
+# Build
+dist/
+
+# OS files
+.DS_Store
+\nauthorized_users.json
